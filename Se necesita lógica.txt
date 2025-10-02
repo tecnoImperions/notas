@@ -1,0 +1,69 @@
+Se necesita lógica 
+
+ya no existen bucles repetitivos dentro de la recursividad 
+establecer en JAVA algoritmos orientado a objetos  
+
+Ejemplos simples con formulario con recursividad 
+cargar matriz
+cargar un vector
+formularios 
+
+Estructuras de datos dinamico o estatico 
+cuando ejecutamos un programa asigna un espacio de memoria amplia y reduce
+
+multiproceso 
+Tipos de datos Abstractos (TDA)
+-
+
+tipos básicos de operaciones en un TDA
+-Constructores: Crean una nueva instancia del tipo.
+-Transformación: Cambian el valor de uno o mas elementos de una instancia del tipo
+-Observación: Nos permite observar el valor de uno o varios elementos de una instancia sin modificaciones 
+ 
+-Iteradores
+Cómo detener los servidores (Laravel y React)
+
+php artisan serve --port=8080
+npm start
+
+hoy aprendere 
+
+react y laravel es lo mejor  
+otras herramientas a aprender postaman  
+
+
+Esctrutura de dados 
+Tema : TDA Pila 
+1) Creamos 	2)		3)cima -> Dato1---.
+						  |
+cima----.	cima -> dato----.		 Dato 2---.	
+	|			|			  |
+							dato 3---.	
+								 |
+								---
+								---
+
+Nodo dato int clase1 Nodo
+     ref Nodo clase2 Pila
+
+Capa Negocio 
+
+class1			class2
+obj nodo 		objpila
+dato int                cima nodo  
+ref nodo                   
+constructor             
+Capa Presentación      
+
+
+
+
+
+
+
+
+
+
+
+
+								
